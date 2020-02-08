@@ -4,22 +4,19 @@ import os
 from time import time
 import random
 
-correct = "dance_correct"
-new = "danceAroundClock"
+correct = "elevanagram"
+new = "elevanagram_large"
 data = "in.txt"
 create_new_data = True
 compare_result = True
 if create_new_data:
     f = open(data,'w')
-    print(10, file=f)
-    for i in range(10):
-        d = random.randint(1,10)
-        print(d, random.randint(1,d), random.randint(1,100), file=f)
-        """
+    print(5, file=f)
+    for i in range(5):
+        #print(100000, random.randint(1,20), file=f)
         for j in range(9):
             print(random.randint(0,50), end=' ', file=f)
         print(file=f)
-        """
     f.close()
 
 start = time()

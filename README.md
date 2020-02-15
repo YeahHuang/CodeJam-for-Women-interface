@@ -4,6 +4,6 @@ The official competition website is : https://codingcompetitions.withgoogle.com/
 
 ## My Rank
 
-2019  225
+2019  225/484
 
-2020  225
+2020  225/1319

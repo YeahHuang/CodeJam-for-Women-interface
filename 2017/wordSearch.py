@@ -21,6 +21,8 @@ from itertools import product
 O 的 j:  0, 4, 8, 12 ..
 I 的 j： 2, 6, 10, 14..
 16min AC
+
+
 """
 
 

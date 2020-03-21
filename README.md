@@ -8,4 +8,4 @@ The official competition website is : https://codingcompetitions.withgoogle.com/
 
         2019       225/484 
 
-        2020       208/1298
+        2020       208/1293
